@@ -1,8 +1,6 @@
 # StarWarsCharacters
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/star_wars_characters`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Star_Wars_Characters is a simple gem that retrieves data on any character within the first 6 movies of the franchise. It allows the user to create both general and specific queries and gain access to the results. 
 
 ## Installation
 
@@ -22,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Follow the prompts to pull data on any character within the first six movies of the Star Wars franchise. 
 
 ## Development
 

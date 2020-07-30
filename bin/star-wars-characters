@@ -3,3 +3,4 @@
 require "bundler/setup"
 require "star_wars_characters"
 require_relative "../lib/star_wars_characters"
+StarWarsCharacters::CLI.new.start 
