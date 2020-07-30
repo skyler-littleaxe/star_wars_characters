@@ -1,8 +1,7 @@
 require 'pry'
 module StarWarsCharacters
     class CLI
-        attr_accessor :back, :search_input
-    
+        
         def start
             puts "Hello User and welcome to... "
             puts "----------------------------"
