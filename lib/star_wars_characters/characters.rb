@@ -1,7 +1,7 @@
 require 'pry'
 module StarWarsCharacters
     class Character
-        attr_accessor :name, :height, :mass, :hair_color, :eye_color, :birth_year, :gender
+        attr_reader :name, :height, :mass, :hair_color, :eye_color, :birth_year, :gender
   
         @@all = []
   
